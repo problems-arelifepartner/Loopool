@@ -1,0 +1,3 @@
+do
+msgbox("YOUR COMPUTER IS HACKED BY MR.DEVIL") 
+loop
